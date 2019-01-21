@@ -6,5 +6,5 @@ Dates:<br>
 16th January 2019 (Practiced questions on HackerRank)<br>
 17th January 2019 (Revised ML and implemented basic linear regression model)<br>
 18th January 2019 (Worked on Anime Recommendation System)<br>
-19th January 2019 (Practised questions)
-
+19th January 2019 (Practised questions)<br>
+20th January 2019 (Practised questions)
