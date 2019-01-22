@@ -8,4 +8,5 @@ Dates:<br>
 18th January 2019 (Worked on Anime Recommendation System)<br>
 19th January 2019 (Practised questions)<br>
 20th January 2019 (Practised questions)<br>
-21th January 2019 (Added Panda's Notebook)
+21th January 2019 (Added Panda's Notebook)<br>
+22th January 2019 (Practised Flask)
