@@ -1,5 +1,5 @@
 # 30-days-of-code
-## This Repository is for self betterment purposes only and for making programming consistent.
+## This Repository is for self betterment purposes only and for practicing programming consistently.
 
 Dates:<br>
 3rd - 15th January 2019 (Created small scripts)<br>
@@ -10,4 +10,5 @@ Dates:<br>
 20th January 2019 (Practised questions)<br>
 21th January 2019 (Added Panda's Notebook)<br>
 22th January 2019 (Practised Flask)<br>
-23th January 2019 (Practised Flask)
+23th January 2019 (Practised Flask)<br>
+24th January 2019 (Worked on a dataset)
