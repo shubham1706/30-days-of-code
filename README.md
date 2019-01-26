@@ -11,4 +11,6 @@ Dates:<br>
 21th January 2019 (Added Panda's Notebook)<br>
 22th January 2019 (Practised Flask)<br>
 23th January 2019 (Practised Flask)<br>
-24th January 2019 (Worked on a dataset)
+24th January 2019 (Worked on a dataset)<br>
+25th January 2019 (Flask)<br>
+26th January 2019 ()
