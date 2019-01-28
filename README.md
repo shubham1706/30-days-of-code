@@ -13,4 +13,6 @@ Dates:<br>
 23th January 2019 (Practised Flask)<br>
 24th January 2019 (Worked on a dataset)<br>
 25th January 2019 (Flask)<br>
-26th January 2019 ()
+26th January 2019 (Worked on a dataset)<br>
+27th January 2019 (Worked on a dataset)<br>
+28th January 2019 (Worked on a dataset)<br>
