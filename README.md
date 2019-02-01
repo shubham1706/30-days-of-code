@@ -19,4 +19,4 @@ Dates:<br>
 29th January 2019 (Worked on a dataset)<br>
 30th January 2019 (Dataset)<br>
 31th January 2019 (Flask)<br>
-1st February 2019 (Flask)
+1st February 2019 (Flask)<br>
