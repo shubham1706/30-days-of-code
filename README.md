@@ -17,6 +17,6 @@ Dates:<br>
 27th January 2019 (Worked on a dataset)<br>
 28th January 2019 (Worked on a dataset)<br>
 29th January 2019 (Worked on a dataset)<br>
-30th January 2019 (Dataset)
-31th January 2019 (Flask)
+30th January 2019 (Dataset)<br>
+31th January 2019 (Flask)<br>
 1st February 2019 (Flask)
