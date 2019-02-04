@@ -21,3 +21,7 @@ Dates:<br>
 31th January 2019 (Flask)<br>
 1st February 2019 (Flask)<br>
 2nd February 2019 (Worked on a dataset)<br>
+3rd February 2019 (Flask)<br>
+4rth February 2019 (Worked on a dataset)<br>
+
+So finally completed the challenge successfully.
