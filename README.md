@@ -1,6 +1,6 @@
 # 30-days-of-code
 ## This Repository is for self betterment purpose and for programming consistently.
-
+<br>
 Dates:<br>
 3rd - 15th January 2019 (Created small scripts)<br>
 16th January 2019 (Practiced questions on HackerRank)<br>
