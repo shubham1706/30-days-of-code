@@ -1,4 +1,4 @@
-# 30-days-of-code
+# 30-days-of-code Challenge
 ## This Repository is for self betterment purpose and for programming consistently.
 <br>
 Dates:<br>
